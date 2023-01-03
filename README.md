@@ -3,6 +3,9 @@
 This is the official repository of VISAPP 2023 paper "[Dynamically Modular and Sparse General Continual Learning](https://arxiv.org/abs/2301.00620)" by [Arnav Varma](https://scholar.google.com/citations?user=3QSih2AAAAAJ&hl=en&oi=ao), [Elahe Arani](https://www.linkedin.com/in/elahe-arani-630870b2/), [Bahram Zonooz](https://scholar.google.com/citations?hl=en&user=FZmIlY8AAAAJ).  
 The repo is based on the [Mammoth](https://github.com/aimagelab/mammoth) framework.
 
+###  Schematic of ___Dynamos___
+![image info](./src/schematic.png)
+
 ## Setup
 
 + Use requirements.txt to set up environment.
