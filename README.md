@@ -24,13 +24,17 @@ python main_policy.py --model dynamos --dataset {name of dataset} --tensorboard 
 If you find the code useful in your research, please consider citing our paper:
 
 <pre>
-@inproceedings{chawlavarma2022adversarial,
-	author={H. {Chawla} and A. {Varma} and E. {Arani} and B. {Zonooz}},
-	booktitle={2022 IEEE/RSJ International Conference on Intelligent Robotics and Systems (IROS)},
-	title={Adversarial Attacks on Monocular Pose Estimation},
-	location={Kyoto, Japan},
-	publisher={IEEE (in press)},
-	year={2022}
+@conference{visapp23,
+author={Arnav Varma. and Elahe Arani. and Bahram Zonooz.},
+title={Dynamically Modular and Sparse General Continual Learning},
+booktitle={Proceedings of the 18th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications - Volume 5: VISAPP,},
+year={2023},
+pages={262-273},
+publisher={SciTePress},
+organization={INSTICC},
+doi={10.5220/0011790200003417},
+isbn={978-989-758-634-7},
+issn={2184-4321},
 }
 </pre>
 
